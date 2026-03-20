@@ -1,0 +1,13 @@
+# Environment
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.mypy_cache/
+.pytest_cache/
+.venv/
+venv/
+
+*.log
